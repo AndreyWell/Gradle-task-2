@@ -1,0 +1,15 @@
+*.iml
+*.xml
+.idea/
+out/
+target/
+*.txt
+*.bin
+*.iws
+!pom.xml
+.gradle
+/build/
+*.jar
+*.war
+*.ear
+!gradle-wrapper.jar
